@@ -13,4 +13,6 @@ Tugas 1 adalah melakukan filter salah satu channel warna (BGR) pada foto dan vid
 
 ## 2. Hasil Video
 
-<video src="hasil_video.mp4" controls width="100%"></video>
+
+https://github.com/user-attachments/assets/a19bdf1f-3bb3-4634-82fd-3723d630d0cc
+
