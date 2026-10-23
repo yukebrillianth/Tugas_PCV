@@ -11,3 +11,4 @@
 2. [Tugas 2](./TUGAS%202/) - Tugas 2 adalah menerapkan transformasi intensitas dan ekualisasi histogram tanpa fungsi bawaan package
 3. [Tugas 3](./TUGAS%203/) - Tugas 3 adalah menerapkan filter spasial pada gambar
 4. [Tugas 4](./TUGAS%204/) - Tugas 4 adalah konversi model warna RGB ke CMYK, HSI, dan HSV
+5. [Tugas 5](./TUGAS%205/) - Tugas 5 adalah menerapkan operasi morphology (erosi, dilasi, opening, closing)
