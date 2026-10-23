@@ -8,3 +8,4 @@
 ## Link Tugas
 
 1. [Tugas 1](./TUGAS%201/) - Tugas 1 adalah melakukan filter salah satu channel warna (BGR) pada foto dan video
+2. [Tugas 2](./TUGAS%202/) - Tugas 2 adalah menerapkan transformasi intensitas dan ekualisasi histogram tanpa fungsi bawaan package
